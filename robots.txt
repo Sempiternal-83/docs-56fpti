@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-teuvk5.shadowdiary.com/sitemap.xml
